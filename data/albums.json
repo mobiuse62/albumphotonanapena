@@ -1,0 +1,25 @@
+[
+  {
+    "id": "nana",
+    "name": "Nana Pena",
+    "type": "Album familial",
+    "description": "Mes plus beaux souvenirs",
+    "cover": "https://raw.githubusercontent.com/mobiuse62/albumphotonanapena/main/images/covers/nana.jpg",
+    "photos": [
+      "https://raw.githubusercontent.com/mobiuse62/albumphotonanapena/main/images/albums/nana/photo1.jpg",
+      "https://raw.githubusercontent.com/mobiuse62/albumphotonanapena/main/images/albums/nana/photo2.jpg",
+      "https://raw.githubusercontent.com/mobiuse62/albumphotonanapena/main/images/albums/nana/photo3.jpg"
+    ]
+  },
+  {
+    "id": "famille",
+    "name": "Moments en famille",
+    "type": "Album familial",
+    "description": "Nos plus beaux moments ensemble",
+    "cover": "https://raw.githubusercontent.com/mobiuse62/albumphotonanapena/main/images/covers/famille.jpg",
+    "photos": [
+      "https://raw.githubusercontent.com/mobiuse62/albumphotonanapena/main/images/albums/famille/photo1.jpg",
+      "https://raw.githubusercontent.com/mobiuse62/albumphotonanapena/main/images/albums/famille/photo2.jpg"
+    ]
+  }
+]
